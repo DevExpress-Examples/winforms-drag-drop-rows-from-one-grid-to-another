@@ -10,7 +10,7 @@
 > 
 > In v17.2+, you can attach [Drag And Drop Behavior](https://documentation.devexpress.com/WindowsForms/118656/Common-Features/Behaviors/Drag-And-Drop-Behavior) to Grid controls to enable drag-and-drop without writing additional code.
 
-This example demonstrates how to use traditional Drag events to allow users to drag data rows from one grid and drop them to another grid control.
+This example demonstrates how to use traditional Drag events to allow users to drag data rows from one grid and drop them onto another grid control.
 
 
 ## Files to Review
